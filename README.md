@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiftyReji99
 - 👀 I’m interested in working as Data Scientist
-- 🌱 I’m currently learning MSc. Data Science and Business Analytics
-- 💞️ I’m looking to collaborate on data based projects
+- 🌱 I comppleted my Masters in Data Science and Business Analytics
+- 💞️ I’m looking to collaborate on data science based projects
 - 📫 How to reach me:- via mail giftyreji99@gmail.com
 
 <!---
